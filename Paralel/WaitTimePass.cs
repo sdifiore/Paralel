@@ -1,13 +1,10 @@
 ﻿using System;
 using System.Threading;
 using System.Threading.Tasks;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace Paralel
 {
-    class Program
+    class WaitTimePass
     {
         static void Main(string[] args)
         {
